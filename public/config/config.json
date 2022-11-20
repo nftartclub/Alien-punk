@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0xa58c41D009d33C4B638Aa12849B37223040926cb",
-  "SCAN_LINK": "https://polygonscan.com/token/0xa58c41D009d33C4B638Aa12849B37223040926cb",
+  "CONTRACT_ADDRESS": "0x94c6EE3919b00c958B98C508F1580bcef73Df6aA",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x94c6EE3919b00c958B98C508F1580bcef73Df6aA",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
-  "NFT_NAME": "Alien Punk",
-  "SYMBOL": "APN",
-  "MAX_SUPPLY": 50,
-  "WEI_COST": 50000000000000000,
-  "DISPLAY_COST": 0.05,
+  "NFT_NAME": "World Cup Collectors Editions",
+  "SYMBOL": "WCCE",
+  "MAX_SUPPLY": 422,
+  "WEI_COST": 13000000000000000,
+  "DISPLAY_COST": 0.013,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
